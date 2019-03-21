@@ -38,10 +38,13 @@ footnote : "GitPitch - The Fastest Way From Idea To Presentation"
 #
 published : true
 
+#トランジションの設定
+transition : fade
+
 #
 # Twitter Card Settings [Pro Only]
 # Doc: https://gitpitch.com/docs/settings/twitter-card
 #
-title : "GitPitch In 60 Seconds"
-description : "A short tutorial introducing the power and simplicity of GitPitch, the markdown presentation service on Git."
+title : "FirebasePredictionをグロースに活用してみる"
+description : "FirebaseMeetup登壇用資料。Predictionをサービス分析にフル活用してみます。"
 thumbnail : https://gitpitch.com/gpimg/tutorial-thumb.png
