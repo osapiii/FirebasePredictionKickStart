@@ -6,6 +6,9 @@
 
 ![](assets/img/presentation.png)
 
++++
+asdfasdfasdf
+
 ---
 @title[Customize Slide Layout]
 
