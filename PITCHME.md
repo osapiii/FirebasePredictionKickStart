@@ -2,7 +2,7 @@
 
 ---
 
-## Add Some Slide Candy
+## 会社紹介
 
 ![](assets/img/presentation.png)
 
