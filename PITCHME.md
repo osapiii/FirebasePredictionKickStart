@@ -13,7 +13,7 @@ asdfasdfasdf
 ---
 @title[Customize Slide Layout]
 
-@snap[west span-50]
+@snap[west span-20]
 ## Customize Slide Content Layout
 @snapend
 
