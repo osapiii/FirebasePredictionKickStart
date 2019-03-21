@@ -17,7 +17,7 @@ asdfasdfasdf
 ## Customize Slide Content Layout
 @snapend
 
-@snap[east span-50]
+@snap[east span-100]
 ![](assets/img/presentation.png)
 @snapend
 
