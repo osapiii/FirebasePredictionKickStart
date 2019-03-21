@@ -39,7 +39,7 @@ footnote : "GitPitch - The Fastest Way From Idea To Presentation"
 published : true
 
 #トランジションの設定
-transition : fade
+transition : slide
 
 #
 # Twitter Card Settings [Pro Only]
